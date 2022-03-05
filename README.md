@@ -2,6 +2,8 @@
 
 Demo app for 1 to 1 video conferencing with Twilio Go.
 
+Live on [Vercel](https://twilio-go-nextjs.vercel.app)
+
 ## Local development
 
 You will need a Twilio account. Use [this link](www.twilio.com/referral/vUEkby) to sign up and get `$10` free credit.
